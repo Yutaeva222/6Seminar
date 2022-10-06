@@ -54,6 +54,6 @@
 // zadacha40();
 
 // Вариант #2 у Сапрыкина Дениса.
-int number = 678;
+int number = 30;
 string result = Convert.ToString(number, 2);
 Console.WriteLine(result);
